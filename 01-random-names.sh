@@ -12,7 +12,7 @@ for i in $data; do
 	my_array+=("$i"); 
 done
 
-#Create a function that generates random unique even numbers and returns them
+#Create a function that generates random unique even numbers and prints them
 function genrandom () {
 num=$(( $1/2 ))
 array=()
