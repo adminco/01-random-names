@@ -6,7 +6,7 @@ It prints them out in this format - `<FIRST NAME> <LAST NAME>`
 
 # Sample Usage and Output
 ```
-./01-random-names.sh
+$ ./01-random-names.sh
 George Bluth
 Emma Wong
 Charles Morris
