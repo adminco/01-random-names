@@ -5,11 +5,13 @@ This bash script consumes an api endpoint to get data; it extracts the user name
 It prints them out in this format - `<FIRST NAME> <LAST NAME>`
 
 # Sample Usage and Output
-# `./01-random-names.sh`
-`George Bluth
+```
+./01-random-names.sh
+George Bluth
 Emma Wong
 Charles Morris
 Tracey Ramos
 Janet Weaver
-Eve Holt`
+Eve Holt
+```
 
